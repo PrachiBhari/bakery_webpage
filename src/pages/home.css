@@ -1,0 +1,17 @@
+/* Home and Products Page styles */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+    margin-top: 20px;
+  }
+  
+  .container {
+    margin: 20px auto;
+  }
+p{
+    text-align: center;
+    margin-bottom: 20px;
+    color: cadetblue;
+}
+  
